@@ -1,0 +1,78 @@
+ProductID	CategoryID	ProductName	SupplierID
+PROD0001	1	Lenin Jeansshorts	1
+PROD0002	1	Mr X Trousers	1
+PROD0003	2	Chantell Shirt	1
+PROD0004	2	Oyaki Kimono	2
+PROD0005	1	O-Man Underwear	2
+PROD0006	2	Shagall Socks	3
+PROD0007	7	Conserve Shoes	3
+PROD0008	2	Tuxedo	3
+PROD0009	6	Fuji Boots	4
+PROD0010	8	Sapporoo Gloves	4
+PROD0011	1	Desperado Jeans	5
+PROD0012	4	Tiny Winy Hot Bikini	5
+PROD0013	8	Aino Shoes	6
+PROD0014	7	Kool Sunglasses	6
+PROD0015	2	Sumi Underwear	6
+PROD0016	3	Wimbledon T-Shirt	7
+PROD0017	6	TieBreak Tennis shoes	7
+PROD0018	8	Deuce shirt	7
+PROD0019	3	Squash Shorts	8
+PROD0020	3	Tennis Suit	8
+PROD0021	3	Basket Shoes	8
+PROD0022	5	Ravellis Träskor	9
+PROD0023	5	DSW	9
+PROD0024	1	Samba Socker  Socks	10
+PROD0025	3	Basket Vest	11
+PROD0026	3	Bike Helmet	11
+PROD0027	3	Tracksuit	11
+PROD0028	7	RDL Suit	12
+PROD0029	6	Davenport	12
+PROD0030	8	Baby Dark Lounge Suit	13
+PROD0031	4	Rossi Bermuda Shorts	14
+PROD0032	4	Rossi Bikkini	14
+PROD0033	3	Car Boots	15
+PROD0034	4	Baywatch Bikkini	16
+PROD0035	4	LA. Shorts	16
+PROD0036	8	Mehmet-Tröja	17
+PROD0037	8	Mehmet-Skor	17
+PROD0038	2	Le Baby Dress	18
+PROD0039	2	Terence Top	18
+PROD0040	8	Duck Trousers	19
+PROD0041	8	Duck Shirt	19
+PROD0042	5	Balett Shoes	20
+PROD0043	4	Summer Shorts	20
+PROD0044	2	Okkaba Skin Jackets	20
+PROD0045	6	Danske Treshoe	21
+PROD0046	8	Rodbye Troje	21
+PROD0047	6	Lundenhagen Boots	22
+PROD0048	6	Root Boot	22
+PROD0049	3	Finnish Sport Blades	23
+PROD0050	3	Finnish Swimsuit	23
+PROD0051	6	Snake Boots	24
+PROD0052	5	Small Crocodile Boots	24
+PROD0053	2	Jumpin Jack Flash Dress	24
+PROD0054	3	Patamonia Fleece Jacket	25
+PROD0055	3	Feiss Fleece Trousers	25
+PROD0056	5	High Heels Shoes	26
+PROD0057	5	Burned Rubber Shoes	26
+PROD0058	8	Ga-Ga Dress	27
+PROD0059	3	Rasta WCT	28
+PROD0060	3	Game Over T-Shirt	28
+PROD0061	3	Adihash Running Shoe	29
+PROD0062	3	Sheat Shoes	29
+PROD0063	2	Serve-Shirt	7
+PROD0064	5	WFS shoes	12
+PROD0065	2	Stretch oui-pants	2
+PROD0066	2	Langoste Shirt	2
+PROD0067	2	X-Dress	16
+PROD0068	3	Cap	8
+PROD0069	3	Racing Truck  Socks	15
+PROD0070	1	US-Master Jeans	7
+PROD0071	1	Atles Lussekofta	15
+PROD0072	4	Rossi Shorts	14
+PROD0073	8	Mehmet-Napp	17
+PROD0074	7	Nikee Running Shoes	4
+PROD0075	1	Bow tie	12
+PROD0076	2	Minnki Pälsii	23
+PROD0077	2	Skirt	12
